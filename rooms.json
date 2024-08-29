@@ -1,0 +1,247 @@
+{
+  "$id": "1",
+  "Depth": 0,
+  "Ascend": null,
+  "LeftDescend": {
+    "$id": "2",
+    "Depth": 1,
+    "Ascend": {
+      "$ref": "1"
+    },
+    "LeftDescend": {
+      "$id": "3",
+      "Depth": 2,
+      "Ascend": {
+        "$ref": "2"
+      },
+      "LeftDescend": {
+        "$id": "4",
+        "Depth": 3,
+        "Ascend": {
+          "$ref": "3"
+        },
+        "LeftDescend": {
+          "$id": "5",
+          "Depth": 4,
+          "Ascend": {
+            "$ref": "4"
+          },
+          "LeftDescend": null,
+          "RightDescend": null
+        },
+        "RightDescend": {
+          "$id": "6",
+          "Depth": 4,
+          "Ascend": {
+            "$ref": "4"
+          },
+          "LeftDescend": null,
+          "RightDescend": null
+        }
+      },
+      "RightDescend": {
+        "$id": "7",
+        "Depth": 3,
+        "Ascend": {
+          "$ref": "3"
+        },
+        "LeftDescend": {
+          "$id": "8",
+          "Depth": 4,
+          "Ascend": {
+            "$ref": "7"
+          },
+          "LeftDescend": null,
+          "RightDescend": null
+        },
+        "RightDescend": {
+          "$id": "9",
+          "Depth": 4,
+          "Ascend": {
+            "$ref": "7"
+          },
+          "LeftDescend": null,
+          "RightDescend": null
+        }
+      }
+    },
+    "RightDescend": {
+      "$id": "10",
+      "Depth": 2,
+      "Ascend": {
+        "$ref": "2"
+      },
+      "LeftDescend": {
+        "$id": "11",
+        "Depth": 3,
+        "Ascend": {
+          "$ref": "10"
+        },
+        "LeftDescend": {
+          "$id": "12",
+          "Depth": 4,
+          "Ascend": {
+            "$ref": "11"
+          },
+          "LeftDescend": null,
+          "RightDescend": null
+        },
+        "RightDescend": {
+          "$id": "13",
+          "Depth": 4,
+          "Ascend": {
+            "$ref": "11"
+          },
+          "LeftDescend": null,
+          "RightDescend": null
+        }
+      },
+      "RightDescend": {
+        "$id": "14",
+        "Depth": 3,
+        "Ascend": {
+          "$ref": "10"
+        },
+        "LeftDescend": {
+          "$id": "15",
+          "Depth": 4,
+          "Ascend": {
+            "$ref": "14"
+          },
+          "LeftDescend": null,
+          "RightDescend": null
+        },
+        "RightDescend": {
+          "$id": "16",
+          "Depth": 4,
+          "Ascend": {
+            "$ref": "14"
+          },
+          "LeftDescend": null,
+          "RightDescend": null
+        }
+      }
+    }
+  },
+  "RightDescend": {
+    "$id": "17",
+    "Depth": 1,
+    "Ascend": {
+      "$ref": "1"
+    },
+    "LeftDescend": {
+      "$id": "18",
+      "Depth": 2,
+      "Ascend": {
+        "$ref": "17"
+      },
+      "LeftDescend": {
+        "$id": "19",
+        "Depth": 3,
+        "Ascend": {
+          "$ref": "18"
+        },
+        "LeftDescend": {
+          "$id": "20",
+          "Depth": 4,
+          "Ascend": {
+            "$ref": "19"
+          },
+          "LeftDescend": null,
+          "RightDescend": null
+        },
+        "RightDescend": {
+          "$id": "21",
+          "Depth": 4,
+          "Ascend": {
+            "$ref": "19"
+          },
+          "LeftDescend": null,
+          "RightDescend": null
+        }
+      },
+      "RightDescend": {
+        "$id": "22",
+        "Depth": 3,
+        "Ascend": {
+          "$ref": "18"
+        },
+        "LeftDescend": {
+          "$id": "23",
+          "Depth": 4,
+          "Ascend": {
+            "$ref": "22"
+          },
+          "LeftDescend": null,
+          "RightDescend": null
+        },
+        "RightDescend": {
+          "$id": "24",
+          "Depth": 4,
+          "Ascend": {
+            "$ref": "22"
+          },
+          "LeftDescend": null,
+          "RightDescend": null
+        }
+      }
+    },
+    "RightDescend": {
+      "$id": "25",
+      "Depth": 2,
+      "Ascend": {
+        "$ref": "17"
+      },
+      "LeftDescend": {
+        "$id": "26",
+        "Depth": 3,
+        "Ascend": {
+          "$ref": "25"
+        },
+        "LeftDescend": {
+          "$id": "27",
+          "Depth": 4,
+          "Ascend": {
+            "$ref": "26"
+          },
+          "LeftDescend": null,
+          "RightDescend": null
+        },
+        "RightDescend": {
+          "$id": "28",
+          "Depth": 4,
+          "Ascend": {
+            "$ref": "26"
+          },
+          "LeftDescend": null,
+          "RightDescend": null
+        }
+      },
+      "RightDescend": {
+        "$id": "29",
+        "Depth": 3,
+        "Ascend": {
+          "$ref": "25"
+        },
+        "LeftDescend": {
+          "$id": "30",
+          "Depth": 4,
+          "Ascend": {
+            "$ref": "29"
+          },
+          "LeftDescend": null,
+          "RightDescend": null
+        },
+        "RightDescend": {
+          "$id": "31",
+          "Depth": 4,
+          "Ascend": {
+            "$ref": "29"
+          },
+          "LeftDescend": null,
+          "RightDescend": null
+        }
+      }
+    }
+  }
+}

@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "DU+cpjJUR/m+qRaaakV3lnMP5vPBahC7fXD8FteJhk/YvtLYaTixfNEx7s4mpCmjqP5hVSuMujprBzsKZevauQ==",
+  "dgSpecHash": "Khr5zw29fmw=",
   "success": true,
-  "projectFilePath": "/mnt/c/Users/mariu/SideProjects/donjon/donjon.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\mariu\\SideProjects\\donjon\\donjon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mariu\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\mariu\\.nuget\\packages\\system.text.json\\8.0.4\\system.text.json.8.0.4.nupkg.sha512"
+  ],
   "logs": []
 }

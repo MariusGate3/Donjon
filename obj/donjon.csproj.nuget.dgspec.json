@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/c/Users/mariu/SideProjects/donjon/donjon.csproj": {}
+    "C:\\Users\\mariu\\SideProjects\\donjon\\donjon.csproj": {}
   },
   "projects": {
-    "/mnt/c/Users/mariu/SideProjects/donjon/donjon.csproj": {
+    "C:\\Users\\mariu\\SideProjects\\donjon\\donjon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/c/Users/mariu/SideProjects/donjon/donjon.csproj",
+        "projectUniqueName": "C:\\Users\\mariu\\SideProjects\\donjon\\donjon.csproj",
         "projectName": "donjon",
-        "projectPath": "/mnt/c/Users/mariu/SideProjects/donjon/donjon.csproj",
-        "packagesPath": "/home/mariusgate/.nuget/packages/",
-        "outputPath": "/mnt/c/Users/mariu/SideProjects/donjon/obj/",
+        "projectPath": "C:\\Users\\mariu\\SideProjects\\donjon\\donjon.csproj",
+        "packagesPath": "C:\\Users\\mariu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mariu\\SideProjects\\donjon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/mariusgate/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mariu\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,11 +32,22 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -53,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

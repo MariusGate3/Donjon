@@ -1,0 +1,15 @@
+C:\Users\mariu\SideProjects\donjon\obj\Debug\net8.0\donjon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariu\SideProjects\donjon\obj\Debug\net8.0\donjon.AssemblyInfoInputs.cache
+C:\Users\mariu\SideProjects\donjon\obj\Debug\net8.0\donjon.AssemblyInfo.cs
+C:\Users\mariu\SideProjects\donjon\obj\Debug\net8.0\donjon.csproj.CoreCompileInputs.cache
+C:\Users\mariu\SideProjects\donjon\obj\Debug\net8.0\donjon.sourcelink.json
+C:\Users\mariu\SideProjects\donjon\bin\Debug\net8.0\donjon.exe
+C:\Users\mariu\SideProjects\donjon\bin\Debug\net8.0\donjon.deps.json
+C:\Users\mariu\SideProjects\donjon\bin\Debug\net8.0\donjon.runtimeconfig.json
+C:\Users\mariu\SideProjects\donjon\bin\Debug\net8.0\donjon.dll
+C:\Users\mariu\SideProjects\donjon\bin\Debug\net8.0\donjon.pdb
+C:\Users\mariu\SideProjects\donjon\obj\Debug\net8.0\donjon.dll
+C:\Users\mariu\SideProjects\donjon\obj\Debug\net8.0\refint\donjon.dll
+C:\Users\mariu\SideProjects\donjon\obj\Debug\net8.0\donjon.pdb
+C:\Users\mariu\SideProjects\donjon\obj\Debug\net8.0\donjon.genruntimeconfig.cache
+C:\Users\mariu\SideProjects\donjon\obj\Debug\net8.0\ref\donjon.dll
