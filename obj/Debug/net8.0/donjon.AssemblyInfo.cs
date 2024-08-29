@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("donjon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f3bfdfe0cc9f027ae17c040e07b0df73663db1f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9eae01ac61486d242362ea5e511919d9b50cd78a")]
 [assembly: System.Reflection.AssemblyProductAttribute("donjon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("donjon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
